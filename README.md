@@ -6,7 +6,7 @@ Super-basic app I made for fun during a day off from work.  I am getting tired o
 
 BUILD INSTRUCTIONS
 -------
-Build for Windows with Xojo 2022 r3.1
+Build with Windows with Xojo 2022 r3.1
 
 
 INFORMATION
