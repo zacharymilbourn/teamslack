@@ -21,4 +21,5 @@ TEAMSLACK LICENSE
 Public domain (CC0 “No Rights Reserved” Creative Commons)
 
 MS Teams Copyright Microsoft, Slack Copyright Slack
+
 Teamslack is not affiliated with Microsoft or Slack
